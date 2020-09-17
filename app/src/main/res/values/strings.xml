@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreferences9618</string>
+
+    <string name="judul">Shared Preferences</string>
+    <string name="first_name">Input First Name</string>
+    <string name="last_name">Input Last Name</string>
+    <string name="save">Save</string>
+</resources>
